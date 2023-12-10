@@ -1,0 +1,1 @@
+Aplicativo em React-Native com o foco na área da agricultura. O projeto é pessoal e serviu como teste e estudos.
