@@ -1,1 +1,3 @@
-Aplicativo em React-Native com o foco na área da agricultura. O projeto é pessoal e serviu como teste e estudos.
+Aplicativo em React-Native com a temática de agricultura. O projeto é pessoal e serviu como testes e estudos.
+
+"React-Native application with an agriculture theme. The project is personal and served as tests and studies."
