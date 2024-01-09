@@ -10,11 +10,19 @@ listar as necessidades de plantio de diferentes culturas. Informando ao usuário
 
 **Imagens do app:**
 
-***Home:***
+***Home e categorias:***
+<div style="display: inline"><br/>
+    <img align="center" alt="Home" src="https://i.imgur.com/17nTWxN.png"/>
+    <img align="center" alt="Categorias" src="https://i.imgur.com/spYiq95.png"/>
+</div><br/>
 
-![página Home](https://i.imgur.com/17nTWxN.png)
 
-
+***Página do Milho:***
+<div style="display: inline"><br/>
+    <img align="center" alt="Milho1" src="https://i.imgur.com/3f5yS9f.png"/>
+    <img align="center" alt="Milho2" src="https://i.imgur.com/H9pP3RR.png"/>
+    <img align="center" alt="Milho3" src="https://i.imgur.com/NkGUsm9.png"/>
+</div><br/>
 
 ## 📦Tecnologias utilizadas
 **Front-end:**
